@@ -1,0 +1,11 @@
+commit a1cae032a44ce844c4d0bc87d1d6af4003068105
+Author: theCreator <diegorazuri@gmail.com>
+Date:   Fri Feb 12 19:19:45 2016 -0500
+
+    limpie las lineas comentadas e innecesarias del index
+
+commit f9dc66ffbaa767668dae237c196c668a6a207594
+Author: theCreator <diegorazuri@gmail.com>
+Date:   Fri Feb 12 19:13:05 2016 -0500
+
+    Primer commit para subir el landing terminado previo al feedback
