@@ -1,7 +1,7 @@
 
 <?php
  
-	$con = mysqli_connect("localhost","bengalap_creator","bengala123@@","bengalap_landing") or die("Some error occurred during connection " . mysqli_error($con));  
+	$con = mysqli_connect("localhost","bengalap_creator","bengala","bengalap_landing") or die("Some error occurred during connection " . mysqli_error($con));  
 	//$con = mysqli_connect("localhost","root","theone888","bengala") or die("Some error occurred during connection " . mysqli_error($con));  
 
 
